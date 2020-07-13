@@ -48,7 +48,7 @@
     "karma-firefox-launcher": "1.1.0",
     "karma-jasmine": "2.0.1",
     "karma-jasmine-jquery": "0.1.1",
-    "lodash.template": "4.4.0",
+    "lodash.template": "4.5.0",
     "molecular-parser": "jagill/node-molecular-parser",
     "node-natural-sort": "0.8.6",
     "run-sequence": "2.2.1",
